@@ -1,0 +1,5 @@
+export { default as Automation } from './automation/automation'
+export { default as MobileView } from './mobileView/mobileView'
+export { default as Timer } from './timer/timer'
+export { default as Navbar } from './navbar'
+export { default as GameOver } from './timer/gameOver'
